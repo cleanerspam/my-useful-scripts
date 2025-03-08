@@ -10,4 +10,6 @@
         Plasma User should directly add this .sh file to AutoStart Apps section in Plasma Settings
 
 **Google Drive File Downloader**
-        Useful for bulk downloading google files using v3 access token on linux using multiple urls placed one in each line inside file_urls.txt file placed in same folder as the script
+
+         Useful for bulk downloading google files using v3 access token on linux using multiple urls 
+         placed one in each line inside file_urls.txt file placed in same folder as the script
