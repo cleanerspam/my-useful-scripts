@@ -29,5 +29,11 @@
         Paste the file in folder which contains all the video and audo files and  
         make the  replaceaudio.sh file executable using `chmod +x replaceaudio.sh`
         then simply run the script with `./replaceaudio.sh`
-
         the output will be stored in output folder in same directory
+
+
+# 4) Check Corrupt PDFs
+        Many of us have folders filled with pdfs and you wish to comb through them and
+        remove corrupted or damaged pdf , this script will simply use pdfinfo to check 
+        All the PDFs in current directory and move them to corrupt/ subdirectory in current folder where script is 
+        Script will try to install necessary dependencies on popular Linux distributions
